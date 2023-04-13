@@ -8,3 +8,4 @@ Couple of things to take note of:
 * I am also checking out [GitLab.com's](gitlab.com) mirroring functionality, so the main repo is located [here](https://gitlab.com/forrestab/dotnet-gitlab-ci) (_I am leaving issues open on both repositories_).
 
 Credit where credit is due, base yaml file started with this blog post from [dotnet thoughts](http://dotnetthoughts.net/building-dotnet-with-gitlab-ci/).
+
